@@ -1,0 +1,8 @@
+<mvc:View displayBlock="true" controllerName="flexible.controller.Detail" height="100%"
+		xmlns:mvc="sap.ui.core.mvc"
+		xmlns:m="sap.m"
+		xmlns:f="sap.f">
+       <m:Page >
+        <m:Text text="sencond page"/>
+        </m:Page>
+</mvc:View>

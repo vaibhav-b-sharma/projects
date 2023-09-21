@@ -1,0 +1,10 @@
+<mvc:View controllerName="demo.controller.detail"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m"
+	xmlns:f="sap.f">
+<mvc:content >
+ <Text text="vaibhav" />
+    <Text text="{ProductID}" />
+ <Text text="Sharma" />
+</mvc:content>
+</mvc:View>
